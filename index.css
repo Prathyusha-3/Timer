@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+}
+
+table tbody tr th{
+  color: white;
+  padding: 10px,0px,10px,10px;
+  font-size: 35px;
+  background-color: black;
+  
+  margin-left: 100px;
+}
+
+table tbody tr td{
+  font-weight: bold;
+  padding-top: 10px;
+  margin-right: 100px;
+}
